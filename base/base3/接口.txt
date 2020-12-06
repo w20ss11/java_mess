@@ -1,0 +1,3 @@
+抽象类：已经确定的体系（extends）
+接口：附加的功能
+Zhangsan确定是Student的一类，但是Smoke是Zhangsan的一个附加的功能，

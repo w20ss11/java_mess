@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="libs/gson-2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/third_java_package/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/third_java_package/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/third_java_package/libtensorflow-1.4.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/third_java_package/Jama-1.0.3.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry exported="true" kind="lib" path="D:/third_java_package/mysql-connector-java-5.1.41-bin.jar" sourcepath="C:/Program Files/Java/jdk1.8.0_121/src.zip"/>
+	<classpathentry exported="true" kind="lib" path="D:/third_java_package/commons-dbcp2-2.5.0/commons-dbcp2-2.5.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/third_java_package/commons-pool2-2.6.0/commons-pool2-2.6.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/third_java_package/c3p0-0.9.5.2/lib/c3p0-0.9.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/third_java_package/commons-dbutils-1.7/commons-dbutils-1.7.jar" sourcepath="D:/third_java_package/commons-dbutils-1.7/commons-dbutils-1.7-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
